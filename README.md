@@ -11,7 +11,7 @@ Me considero una persona curiosa, apasionada por aprender cosas nuevas y mejorar
 
 ## 🌱 Actualmente...
 
-Estoy **estudiando programación** y cada día descubro algo nuevo que me motiva a seguir creciendo como desarrollador.  
+Estoy **estudiando programación, terminando mi tecnico en desarrollo de software** y cada día descubro algo nuevo que me motiva a seguir creciendo como desarrollador.  
 Enfocado en mejorar mis habilidades en desarrollo web, algoritmos y buenas prácticas de código.
 
 ---
